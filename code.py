@@ -43,5 +43,3 @@ def calculator():
         print("Invalid choice. Please choose 1, 2, 3, or 4.")
 
 calculator()
-Creator: Abhinav Kumar
-New code line added
